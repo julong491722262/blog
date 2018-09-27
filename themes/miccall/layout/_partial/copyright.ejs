@@ -1,0 +1,11 @@
+        <div id="copyright">
+            <ul>
+                <li>&copy;Dachui 2018</li>
+				<li></li>
+            </ul>
+            <% if(theme.busuanzi.enable === true ) { %>
+            	<span id="busuanzi_container_site_pv">Visits: <span id="busuanzi_value_site_pv"/></span>
+			<% } else { %>
+				<span id="busuanzi_container_site_pv"> <%- date(Date.now(), 'YYYY') %> </span> 
+			<% } %>
+        </div>
