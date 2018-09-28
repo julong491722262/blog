@@ -107,3 +107,6 @@ thumbnail: ../default.png
 (ShadowsocksR/SS/SSR) 
  (DNSCrypt) 
 [逗比根据地](https://doub.io/sszhfx/)
+
+Dachui云下载地址
+http://julong.w3.luyouxia.net/      Airport目录
